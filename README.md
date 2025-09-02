@@ -103,11 +103,16 @@ blog-app/
 
 ⚙️ Installation & Setup
 1. Clone the repo
+
 git clone https://github.com/patelaayush11330/blog-platform.git
+
 cd blog-platform
 
+
 2. Backend Setup
+
 cd backend
+
 npm install
 
 
@@ -124,8 +129,11 @@ Run the backend:
 
 npm start
 
+
 3. Frontend Setup
+
 cd frontend
+
 npm install
 
 
