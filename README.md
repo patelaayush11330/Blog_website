@@ -4,7 +4,8 @@ A full-stack blog application built with React, Node.js, Express, and MongoDB.
 It supports authentication, post creation, comments, admin controls, dark mode, SEO optimization, and more.
 
 
-🚀 Features
+🚀 Features:
+
 🔐 Authentication
 
 User registration & login
