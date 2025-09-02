@@ -3,6 +3,7 @@
 A full-stack blog application built with React, Node.js, Express, and MongoDB.
 It supports authentication, post creation, comments, admin controls, dark mode, SEO optimization, and more.
 
+
 🚀 Features
 🔐 Authentication
 
@@ -11,6 +12,7 @@ User registration & login
 JWT/session authentication (depending on configuration)
 
 Forgot password & reset password
+
 
 ✍️ Blogging
 
@@ -22,6 +24,7 @@ Categories & trending posts
 
 Bookmarking posts
 
+
 👥 User Features
 
 Profile management
@@ -30,11 +33,13 @@ Personalized dashboard
 
 Dark/light mode with localStorage persistence
 
+
 🛠️ Admin Features
 
 Admin dashboard for managing posts, users, and comments
 
 Notifications system
+
 
 🌐 SEO & Performance
 
@@ -45,6 +50,7 @@ react-helmet-async for SEO metadata
 i18n (internationalization support)
 
 Lazy loading for improved performance
+
 
 🏗️ Tech Stack
 
@@ -72,6 +78,7 @@ CORS support
 
 dotenv for environment configs
 
+
 📂 Project Structure
 blog-app/
 │
@@ -91,6 +98,7 @@ blog-app/
 │   └── package.json
 │
 └── README.md
+
 
 ⚙️ Installation & Setup
 1. Clone the repo
@@ -130,6 +138,7 @@ Now your app will run at:
 Backend → http://localhost:5000
 
 Frontend → http://localhost:3000
+
 
 📌 Available Routes
 Frontend Pages
@@ -178,6 +187,7 @@ Backend API
 
 /sitemap.xml → Sitemap generation
 
+
 🛡️ Security
 
 Protected routes for authenticated users
@@ -188,6 +198,4 @@ Secure password handling & JWT/session support
 
 CORS configuration for frontend/backend
 
-📄 License
 
-This project is licensed under the MIT License – feel free to use and modify.
